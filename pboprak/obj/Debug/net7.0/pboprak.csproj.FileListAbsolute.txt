@@ -1,0 +1,14 @@
+D:\PBO\pboprak\bin\Debug\net7.0\pboprak.exe
+D:\PBO\pboprak\bin\Debug\net7.0\pboprak.deps.json
+D:\PBO\pboprak\bin\Debug\net7.0\pboprak.runtimeconfig.json
+D:\PBO\pboprak\bin\Debug\net7.0\pboprak.dll
+D:\PBO\pboprak\bin\Debug\net7.0\pboprak.pdb
+D:\PBO\pboprak\obj\Debug\net7.0\pboprak.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\pboprak\obj\Debug\net7.0\pboprak.AssemblyInfoInputs.cache
+D:\PBO\pboprak\obj\Debug\net7.0\pboprak.AssemblyInfo.cs
+D:\PBO\pboprak\obj\Debug\net7.0\pboprak.csproj.CoreCompileInputs.cache
+D:\PBO\pboprak\obj\Debug\net7.0\pboprak.dll
+D:\PBO\pboprak\obj\Debug\net7.0\refint\pboprak.dll
+D:\PBO\pboprak\obj\Debug\net7.0\pboprak.pdb
+D:\PBO\pboprak\obj\Debug\net7.0\pboprak.genruntimeconfig.cache
+D:\PBO\pboprak\obj\Debug\net7.0\ref\pboprak.dll
